@@ -9,6 +9,7 @@ import javax.swing.JFrame;
 import Utils.ImageViewer;
 
 public class SixFlags extends JFrame {
+	private static int a;
 
 	/**
 	 * 
@@ -40,5 +41,7 @@ public class SixFlags extends JFrame {
 		s.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		s.setLocationRelativeTo(null);
 		s.setVisible(true);
+		System.out.println(new ImageViewer().getXCoordinate());
+		System.out.println(a);
 	}
 }
