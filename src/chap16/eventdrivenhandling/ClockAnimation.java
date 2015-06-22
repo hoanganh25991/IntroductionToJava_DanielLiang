@@ -1,9 +1,6 @@
 package chap16.eventdrivenhandling;
 
-import java.awt.BorderLayout;
-import java.awt.Component;
 import java.awt.Toolkit;
-import java.awt.Window;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -11,6 +8,10 @@ import javax.swing.JFrame;
 import javax.swing.Timer;
 
 public class ClockAnimation extends JFrame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -7465912787242156030L;
 	private StillClock clock = new StillClock();
 
 	public ClockAnimation() {

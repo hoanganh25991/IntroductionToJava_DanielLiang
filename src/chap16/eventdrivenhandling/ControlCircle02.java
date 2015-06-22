@@ -10,6 +10,10 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class ControlCircle02 extends JFrame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 293312626491454928L;
 	private JButton jbtEnlarge = new JButton("Enlarge");
 	private JButton jbtShrink = new JButton("Shrink");
 	private CirclePanel canvas = new CirclePanel();

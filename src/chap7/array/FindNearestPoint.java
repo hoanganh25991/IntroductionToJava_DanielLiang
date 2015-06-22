@@ -1,10 +1,5 @@
-package chap7;
+package chap7.array;
 
-import java.awt.Point;
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class FindNearestPoint {

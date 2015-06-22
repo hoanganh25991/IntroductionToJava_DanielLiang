@@ -14,6 +14,10 @@ import javax.swing.JTextField;
 import javax.swing.border.TitledBorder;
 
 public class LoanCalculator extends JFrame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -4268641583585479658L;
 	private JTextField jtfAnnualInterestRate = new JTextField();
 	private JTextField jtfNumberOfYear = new JTextField();
 	private JTextField jtfLoanAmount = new JTextField();

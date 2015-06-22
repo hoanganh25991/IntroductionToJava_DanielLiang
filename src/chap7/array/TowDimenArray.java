@@ -1,4 +1,4 @@
-package chap7;
+package chap7.array;
 
 public class TowDimenArray {
 	int[][] dimenArray;
