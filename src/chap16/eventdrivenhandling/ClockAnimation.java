@@ -7,6 +7,8 @@ import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 import javax.swing.Timer;
 
+import Utils.StillClock;
+
 public class ClockAnimation extends JFrame {
 	/**
 	 * 

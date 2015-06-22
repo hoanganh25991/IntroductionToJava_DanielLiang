@@ -1,12 +1,31 @@
 package minigame;
 
-import java.util.Random;
-import javax.swing.*; //JFrame,JComponent,Timer
-import java.awt.*; //Dimension,Image,Toolkit,Graphics,Container,Color,Graphics2D
+import java.applet.Applet;
+import java.applet.AudioClip; //Applet,AudioClip
+import java.awt.AlphaComposite;
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Dimension; //Dimension,Image,Toolkit,Graphics,Container,Color,Graphics2D
+import java.awt.Font;
+import java.awt.GradientPaint;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Image;
+import java.awt.Rectangle;
+import java.awt.RenderingHints;
+import java.awt.Toolkit;
+import java.awt.event.ActionEvent;
 //RenderingHints,GradientPaint,Font,Rectangle,AlphaComposite
-import java.awt.event.*;//ActionEvent,ActionListener,KeyAdapter,KeyEvent
-import java.applet.*; //Applet,AudioClip
-import java.net.*; //URL,MalformedURLException
+import java.awt.event.ActionListener;//ActionEvent,ActionListener,KeyAdapter,KeyEvent
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
+import java.net.MalformedURLException;
+import java.net.URL; //URL,MalformedURLException
+import java.util.Random;
+
+import javax.swing.JComponent;
+import javax.swing.JFrame; //JFrame,JComponent,Timer
+import javax.swing.Timer;
 
 public class Puyo_Puyo extends JFrame {
 	/**
