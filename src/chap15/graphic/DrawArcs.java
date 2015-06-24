@@ -43,7 +43,7 @@ public class DrawArcs extends JFrame {
 	public static void main(String[] args) {
 		DrawArcs d = new DrawArcs();
 		d.setTitle("DrawArcs");
-		d.setSize(200, 200);
+		d.setSize(300,300);
 		d.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		d.setLocationRelativeTo(null);
 		d.setVisible(true);
