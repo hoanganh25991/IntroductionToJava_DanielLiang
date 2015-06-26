@@ -7,6 +7,7 @@ public class ChartModel {
 	private double[] data = { 200, 40, 50, 100, 40, 10 };
 	private String[] dataName = { "CS", "Math", "Chem", "Biol", "Phys", "Buss" };
 
+	@SuppressWarnings("rawtypes")
 	private transient Vector actionListeners;
 
 	public ChartModel() {
@@ -18,13 +19,16 @@ public class ChartModel {
 
 	public synchronized void removeActionListener(ActionListener l) {
 		if (actionListeners != null && actionListeners.contains(l)) {
+			@SuppressWarnings("rawtypes")
 			Vector v = (Vector) actionListeners.clone();
 			v.removeElement(l);
 			actionListeners = v;
 		}
 	}
 
+	@SuppressWarnings("unchecked")
 	public synchronized void addActionListener(ActionListener l) {
+		@SuppressWarnings("rawtypes")
 		Vector v = actionListeners == null ? new Vector(2) : (Vector) actionListeners.clone();
 		if (!v.contains(l)) {
 			v.addElement(l);
@@ -34,6 +38,7 @@ public class ChartModel {
 
 	protected void fireActionPerformed(ActionEvent e) {
 		if (actionListeners != null) {
+			@SuppressWarnings("rawtypes")
 			Vector listeners = actionListeners;
 			int count = listeners.size();
 			for (int i = 0; i < count; i++) {
