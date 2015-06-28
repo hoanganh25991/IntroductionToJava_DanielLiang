@@ -1,4 +1,4 @@
-package chap15.graphic;
+package chap15_graphic;
 
 import java.awt.*;
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package chap15.graphic;
+package chap15_graphic;
 
 import java.awt.FontMetrics;
 import java.awt.Dimension;
