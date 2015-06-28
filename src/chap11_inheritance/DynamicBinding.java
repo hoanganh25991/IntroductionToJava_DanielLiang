@@ -1,4 +1,4 @@
-package chap11.inheritance;
+package chap11_inheritance;
 
 public class DynamicBinding {
 	public static void main(String[] args) {

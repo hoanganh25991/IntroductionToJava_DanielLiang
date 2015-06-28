@@ -1,4 +1,4 @@
-package chap11.inheritance;
+package chap11_inheritance;
 
 import java.util.ArrayList;
 
