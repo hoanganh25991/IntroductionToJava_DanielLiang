@@ -7,4 +7,5 @@ public class TestChapForGit {
 	/** sfjaskljfd;lka */
 	/** askjlkasjflkasjldf */
 	/** second eclipse modify this project */
+	/** make a change from SR2, different local directory */
 }
