@@ -6,4 +6,5 @@ public class TestChapForGit {
 	/** fix whitespace diff */
 	/** sfjaskljfd;lka */
 	/** askjlkasjflkasjldf */
+	/** second eclipse modify this project */
 }
