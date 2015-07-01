@@ -1,0 +1,142 @@
+[33mcommit 3778e8e6ee206a17aea6077b63bbd7a180923954[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Wed Jul 1 09:28:11 2015 +0700
+
+    Revert "a"
+    
+    This reverts commit 547e4ea773244183ef511ff393e07cab628d7e6f.
+
+[33mcommit 547e4ea773244183ef511ff393e07cab628d7e6f[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Wed Jul 1 09:27:20 2015 +0700
+
+    a
+
+[33mcommit 510efa2c34b06a3891762263f185a1ff3de19d83[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Wed Jul 1 09:25:25 2015 +0700
+
+    right click to 'unstaged changes', then 'add to index' will move this
+    one to 'staged changes'
+    
+    b/c 'index cached stage' using as same as each other
+
+[33mcommit cb2eb4c608eb1dc44b41177d6a6aa665117834d0[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Wed Jul 1 09:08:03 2015 +0700
+
+    bin remove from staging
+
+[33mcommit 85c92a7f975839bc08e34138f8650e0618274984[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Wed Jul 1 09:04:57 2015 +0700
+
+    mofify .gitignore to ignore bin/ from Git repository
+
+[33mcommit b312c1ee024ca06f06ab5eddfbf1b2d8472a7838[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Tue Jun 30 09:59:53 2015 +0700
+
+    def
+
+[33mcommit a6f4adbc00101749a991770c926d19a5fa6350cb[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Tue Jun 30 09:58:03 2015 +0700
+
+    vfgt
+
+[33mcommit e15da6d66fb6c6903e60d45b4936bfc2b42f46cb[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Tue Jun 30 07:41:17 2015 +0700
+
+    abcs
+
+[33mcommit f4fd8b1e0e3a8c9e74fed6af57dfeb8a3a75d95b[m
+Author: Le Hoang Anh <lehoanganh25991@gmail.com>
+Date:   Tue Jun 30 07:34:26 2015 +0700
+
+    abc
+
+[33mcommit f2df06db5c477d7d4cf18735651d8a866419dfbb[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Sun Jun 28 17:20:13 2015 +0700
+
+    gg
+
+[33mcommit 8f98d4c6ba830dcfa73e66e3609d940cf0be3d90[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Sun Jun 28 17:17:51 2015 +0700
+
+    hh
+
+[33mcommit 8cc285f65bcd75deb2241358239aff90d8d9ed78[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Sat Jun 27 00:21:17 2015 +0700
+
+    ad
+    
+    ad
+
+[33mcommit 1ba16d821d6390271c49a8227d93e58df3c5decf[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Fri Jun 26 23:46:40 2015 +0700
+
+    abc
+
+[33mcommit aa58506045a804e3ff44ab2763d51cc7e03a8b09[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Wed Jun 24 18:23:31 2015 +0700
+
+    update Chap15, exercise 15_14
+
+[33mcommit f40310bba9c37010f4ebd43bdc44f66046de0527[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 17:53:26 2015 +0700
+
+    update chapter 15 - graphics up to Exercise
+
+[33mcommit 970b6667f0daeb840a762cdd9d37875efdf93d8d[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 14:28:49 2015 +0700
+
+    update chapter 15
+    
+    graphics - up to displayImage()
+
+[33mcommit d816e11683b022b0a3fdeae16e76578537aff4ca[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 11:26:53 2015 +0700
+
+    chapter 15
+    
+    graphics - up to drawPolygon(Polygon p)
+
+[33mcommit 88e990be51e0f5dab7f27f76b6d5a8e103cb5a33[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 10:16:31 2015 +0700
+
+    add libraries
+    
+    change JRE 1.7 to JRE 1.8
+
+[33mcommit 537b80bc1b19f23c95642debe9cc50ba87d00f3b[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 10:08:43 2015 +0700
+
+    chapter 7
+    
+    two dimension  array
+
+[33mcommit e2bd780241c04d3daa465b592984c0e5376416f8[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 06:55:25 2015 +0700
+
+    up to server
+    
+    save to cloud
+
+[33mcommit 746b2acc5e8b350c19608ef9924bd7a55dfe3746[m
+Author: Le Hoang Anh <hoanganh_25991@yahoo.com.vn>
+Date:   Mon Jun 22 06:54:20 2015 +0700
+
+    :circus_tent: Added .gitattributes & .gitignore files
