@@ -7,6 +7,7 @@ public class BetterProgrammerTask {
 		 * Please implement this method to return the word count in a given String. Assume that the parameter String can only contain spaces and alphanumeric
 		 * characters.
 		 */
+		/** why i cannot push this one to github */
 		int count = 0;
 		char[] charArray = s.toCharArray();
 		System.out.println(s.length());
@@ -50,7 +51,7 @@ public class BetterProgrammerTask {
 		return ch == ' ';
 	}
 
-	 public static void main(String[] args) {
-	 System.out.println("word count " + countWords("  le hoang     anh saf sfsadf "));
-	 }
+	public static void main(String[] args) {
+		System.out.println("word count " + countWords("  le hoang     anh saf sfsadf "));
+	}
 }
