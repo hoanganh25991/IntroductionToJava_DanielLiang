@@ -1,4 +1,4 @@
-package JavaTestOnline;
+package JavaTestOnline02;
 
 import java.util.Collection;
 import java.util.Iterator;

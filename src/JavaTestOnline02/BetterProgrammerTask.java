@@ -1,4 +1,4 @@
-package JavaTestOnline;
+package JavaTestOnline02;
 
 public class BetterProgrammerTask {
 
