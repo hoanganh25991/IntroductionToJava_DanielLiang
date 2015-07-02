@@ -51,3 +51,4 @@ target/
 
 # ignore all files ending with ~
 *~ 
+/anotherNewFile.txt
