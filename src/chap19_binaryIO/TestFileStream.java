@@ -1,4 +1,4 @@
-package chap19.binaryIO;
+package chap19_binaryIO;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

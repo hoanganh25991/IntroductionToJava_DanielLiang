@@ -1,4 +1,4 @@
-package chap16.eventdrivenhandling;
+package chap16_eventdrivenhandling;
 
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;

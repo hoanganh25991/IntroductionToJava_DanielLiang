@@ -1,4 +1,4 @@
-package chap16.eventdrivenhandling;
+package chap16_eventdrivenhandling;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
